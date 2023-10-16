@@ -1,5 +1,5 @@
 '''
-THis is the code that is meant to calculate the execution time of a python code
+This is the code that is meant to calculate the execution time of a python code
 '''
 
 from time import time
