@@ -12,3 +12,6 @@ elif player1 == "scissor" and player2 == "rock":
     print("Player 2 Won")
 elif player1 == player2:
     print("Tie")
+    print("Tie")
+else:
+    print("Player 1 Won")
